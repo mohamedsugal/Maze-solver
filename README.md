@@ -1,5 +1,5 @@
 # Maze-solver
-Maze solver BFS &amp; DFS
+This repository contains code for finding a path in a maze using the BFS & DFS algorithms. I used Pillow image processing library to draw the path and display it. 
 
 <img width="1118" alt="maze_res" src="https://user-images.githubusercontent.com/32971892/161399657-bc3d9fd9-be26-45da-8394-adcc66e44897.png">
 
